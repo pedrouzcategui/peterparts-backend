@@ -69,3 +69,4 @@ This repo describes the source code of the main E-commerce website, made with No
 - Dev (runs TypeScript directly with auto-reload): `npm run dev`
 - Build (transpiles TypeScript to `dist/`): `npm run build`
 - Start (runs compiled JavaScript from `dist/`): `npm start`
+- Prisma Setup `npx prisma init --datasource-provider postgresql --output ../generated/prisma`
