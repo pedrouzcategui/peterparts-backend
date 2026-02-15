@@ -55,10 +55,11 @@ This repo describes the source code of the main E-commerce website, made with No
   - Headers Check
   - Authentication Middlewares
 
-## Como levantar la app?
+## Requerimientos:
 
-`docker-compose up -d`
+1. Node Version Manager (nvm)
 
-## Como detener la app?
+# Instalación
 
-`docker-compose down`
+1. `nvm use`
+2. `npm install`
