@@ -4,3 +4,8 @@ node_modules/
 TODOS.md
 /dist
 /coverage
+
+# Generated TypeScript declaration files
+/*.d.ts
+/*.d.ts.map
+/prisma/generated/
