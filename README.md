@@ -63,6 +63,8 @@ This repo describes the source code of the main E-commerce website, made with No
 
 1. `nvm use`
 2. `npm install`
+3. `npx prisma generate`
+4. `npm run dev`
 
 ## Scripts
 
