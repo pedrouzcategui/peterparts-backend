@@ -1,4 +1,4 @@
-import { type Brand, type Prisma } from "../../generated/prisma/client.ts";
+import { type Brand, type Prisma } from "../../prisma/generated/client.ts";
 import prisma from "@db/prisma";
 
 export type CreateProductInput = {

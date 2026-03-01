@@ -1,4 +1,4 @@
-import { Brand, Prisma } from "../../generated/prisma/client.ts";
+import { Brand, Prisma } from "../../prisma/generated/client.ts";
 
 export const isBrand = (value: unknown): value is Brand =>
   value === Brand.Cuisinart || value === Brand.Kitchenaid;

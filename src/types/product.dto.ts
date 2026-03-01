@@ -1,4 +1,4 @@
-import { Brand, Prisma } from "../../generated/prisma/client.ts";
+import { Brand, Prisma } from "../../prisma/generated/client.ts";
 
 export type ProductDTO = {
   id: string;

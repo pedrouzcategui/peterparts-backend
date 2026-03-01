@@ -12,7 +12,9 @@
       "@dto/*": ["src/types/*"],
       "@utils/*": ["src/utils/*"],
       "@db/*": ["src/db/*"],
-      "@routers/*": ["src/routers/*"]
+      "@routers/*": ["src/routers/*"],
+      "@services/*": ["src/services/*"],
+      "@middlewares/*": ["src/middlewares/*"]
     },
 
     // Environment Settings
